@@ -1,5 +1,4 @@
-# 2048 Game
-
+<h1 align="center">🌟 2048 Game 🌟</h1>
 ## About the project
 This is a browser-based 2048 game implemented using JavaScript, HTML, and SCSS. The game allows players to combine tiles with the same numbers to reach the 2048 tile.
 
@@ -35,4 +34,6 @@ npm start
 ```
 5. Open http://localhost:3000 in your browser to view the page.
 
-- # [DEMO LINK](https://andriy-chornyy.github.io/Game-2048/)
+
+<h1 align="center">🌟 <a href="https://andriy-chornyy.github.io/Game-2048/" target="_blank">DEMO LINK</a> 🌟</h1>
+
