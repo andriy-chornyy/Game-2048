@@ -19,7 +19,7 @@ Features of the game:
 ## Installation / How to run
 1. Clone the repository:
 ```
-git clone https://github.com/andriy-chornyy/Game-2048
+git clone https://github.com/andriy-chornyy/Game-2048.git
 ```
 2. Navigate to the project folder:
 ```
